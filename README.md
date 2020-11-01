@@ -9,7 +9,10 @@ By asking for a user's temperature preference, we are able to generate a map tha
 
 By looking at this map, customers can clearly see what areas are within their temperature preference and the hotels suggested for those cities. Customers can use this interactive map to begin planning an itinerary, with the cities and hotels provided. 
 
-### 
+### Travel Itinerary Map
+![WeatherPy_travel_map](Vacation_Itinerary/WeatherPy_travel_map.png)
+
+As my example, I have planned a trip throughout Vietnam and Thailand in Southeast Asia. 
 
 
 
